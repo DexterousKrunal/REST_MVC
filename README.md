@@ -8,4 +8,5 @@ What it contains ?
 4. MYSQL database environment used.
 5. Hibernate JPA API used for Data related operation.
 6. Jackson technology used to convert JSON data into Java object.
+7.Test
 
